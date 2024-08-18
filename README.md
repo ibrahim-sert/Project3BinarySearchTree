@@ -18,5 +18,24 @@ Binary-Search-Tree
     7
    /
   5
+```
 
+3. 1 sayısını ekleme: 1, 7'den küçük ve 5'ten de küçük olduğu için 5'in soluna yerleştirilir.
+
+```
+    7
+   /
+  5
+ /
+1
+```
+
+4. 8 sayısını ekleme: 8, 7'den büyük olduğu için 7'nin sağına yerleştirilir.
+
+```
+    7
+   / \
+  5   8
+ /
+1
 ```
